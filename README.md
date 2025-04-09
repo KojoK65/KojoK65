@@ -1,12 +1,12 @@
 # <a href="https://www.linkedin.com/in/kojo-karl-agbee-26484b264">Kojo Karl-Agbee</a>'s Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Here's the rephrased version:
 
+I'm passionate about cybersecurity and enjoy solving complex challenges through hands-on projects. My work spans areas such as vulnerability management, threat detection, and IAM, allowing me to dive deep into the ever-evolving cybersecurity landscape. Feel free to explore these projects and see how I’ve contributed to strengthening security operations and processes!"
 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/KojoK65/Vulnerability-Management-Program/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
