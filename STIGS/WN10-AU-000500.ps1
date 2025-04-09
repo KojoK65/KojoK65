@@ -4,8 +4,8 @@
 
 .NOTES
     Author          : Kojo Karl-Agbee
-    LinkedIn        : linkedin.com/in/joshmadakor/
-    GitHub          : github.com/joshmadakor1
+    LinkedIn        : 
+    GitHub          : https://github.com/KojoK65
     Date Created    : 2025-08-04
     Last Modified   : 2025-08-04
     Version         : 1.0
