@@ -4,7 +4,7 @@
 I'm passionate about cybersecurity and enjoy solving complex challenges through hands-on projects. My work spans areas such as vulnerability management, threat detection, and IAM, allowing me to dive deep into the ever-evolving cybersecurity landscape. Feel free to explore these projects and see how I’ve contributed to strengthening security operations and processes!"
 
 ## 🛡️ Identity and Access Management (IAM) Projects
-- **[IAM Threat Hunt: Unauthorized Local Admin Creation](https://github.com/KojoK65/Vulnerability-Management-Program/tree/main)**
+- **[IAM Threat Hunt: Unauthorized Local Admin Creation](https://github.com/KojoK65/IAM-Threat-Hunt/blob/main/README.md)**
 
 ## ⚠️ Vulnerability Management Projects
 
