@@ -6,6 +6,8 @@ I'm passionate about cybersecurity and enjoy solving complex challenges through 
 ## 🛡️ Identity and Access Management (IAM) Projects
 - **[IAM Threat Hunt: Unauthorized Local Admin Creation](https://github.com/KojoK65/IAM-Threat-Hunt/blob/main/README.md)**
 
+- **[Active Directory: Active Directory PowerShell Automation Lab](https://github.com/KojoK65/Active-Directory/blob/main/README.md)**
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/KojoK65/Vulnerability-Management-Program/tree/main)**
