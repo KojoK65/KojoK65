@@ -7,6 +7,7 @@ I'm passionate about cybersecurity and enjoy solving complex challenges through 
 - **[IAM Threat Hunt: Unauthorized Local Admin Creation](https://github.com/KojoK65/IAM-Threat-Hunt/blob/main/README.md)**
 
 - **[Active Directory: Active Directory PowerShell Automation Lab](https://github.com/KojoK65/Active-Directory/blob/main/README.md)**
+- **[SAML SSO Integration with Microsoft Entra ID](https://github.com/KojoK65/Saml-sso-entra-id-lab)**
 
 ## ⚠️ Vulnerability Management Projects
 
