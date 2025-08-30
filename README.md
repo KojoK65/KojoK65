@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and enjoy solving complex challenges through 
 ## 🛡️ Identity and Access Management (IAM) Projects
 - **[IAM Threat Hunt: Unauthorized Local Admin Creation](https://github.com/KojoK65/IAM-Threat-Hunt/blob/main/README.md)**
 
-- **[Active Directory: Active Directory PowerShell Automation Lab](https://github.com/KojoK65/Active-Directory/blob/main/README.md)**
+- **[Active Directory User Provisioning Automation](https://github.com/KojoK65/Active-Directory/blob/main/README.md)**
 - **[SAML SSO Integration with Microsoft Entra ID](https://github.com/KojoK65/Saml-sso-entra-id-lab)**
 - **[Okta Lab: Group-Based Access + MFA](https://github.com/KojoK65/Okta-Lab-Group-Based-Access-MFA/blob/main/README.md)**
 - **[CyberArk: Privileged Access Security (PAS) Lab](https://github.com/KojoK65/CyberArk-PAS-Lab/blob/main/README.md)**
