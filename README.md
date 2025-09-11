@@ -4,19 +4,18 @@
 I'm passionate about cybersecurity and enjoy solving complex challenges through hands-on projects. My work spans areas such as vulnerability management, threat detection, and IAM, allowing me to dive deep into the ever-evolving cybersecurity landscape. Feel free to explore these projects and see how I’ve contributed to strengthening security operations and processes!
 
 ## 🛡️ Identity and Access Management (IAM) Projects
-- **[IAM Threat Hunt: Unauthorized Local Admin Creation](https://github.com/KojoK65/IAM-Threat-Hunt/blob/main/README.md)**
-
+- **[Entra ID End-to-End Identity Lifecycle Automation and Security](https://github.com/KojoK65/Entra-ID-End-to-End-Identity-Lifecycle-Automation-and-Security)**
 - **[Active Directory User Provisioning Automation](https://github.com/KojoK65/Active-Directory/blob/main/README.md)**
 - **[SAML SSO Integration with Microsoft Entra ID](https://github.com/KojoK65/Saml-sso-entra-id-lab)**
-- **[Okta Lab: Group-Based Access + MFA](https://github.com/KojoK65/Okta-Lab-Group-Based-Access-MFA/blob/main/README.md)**
-- **[CyberArk: Privileged Access Security (PAS) Lab](https://github.com/KojoK65/CyberArk-PAS-Lab/blob/main/README.md)**
+- **[Okta: Group-Based Access + MFA](https://github.com/KojoK65/Okta-Lab-Group-Based-Access-MFA/blob/main/README.md)**
+- **[CyberArk: Privileged Access Security (PAS)](https://github.com/KojoK65/CyberArk-PAS-Lab/blob/main/README.md)**
 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/KojoK65/Vulnerability-Management-Program/tree/main)**
 
 ## 🚨 Threat Hunting and Security Operations
-
+- **[IAM Threat Hunt: Unauthorized Local Admin Creation](https://github.com/KojoK65/IAM-Threat-Hunt/blob/main/README.md)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/KojoK65/threat-hunting-scenario-tor)**
 
 <hr/>
