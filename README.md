@@ -8,7 +8,9 @@ I'm passionate about cybersecurity and enjoy solving complex challenges through 
 - **[Active Directory User Provisioning Automation](https://github.com/KojoK65/Active-Directory/blob/main/README.md)**
 - **[SAML SSO Integration with Microsoft Entra ID](https://github.com/KojoK65/Saml-sso-entra-id-lab)**
 - **[Okta: Group-Based Access + MFA](https://github.com/KojoK65/Okta-Lab-Group-Based-Access-MFA/blob/main/README.md)**
-- **[CyberArk: Privileged Access Security (PAS)](https://github.com/KojoK65/CyberArk-PAS-Lab/blob/main/README.md)**
+- **[CyberArk: Privileged Access Security (PAS) Deployment](https://github.com/KojoK65/CyberArk-PAS-Lab/blob/main/README.md)**
+- **[CyberArk: Privileged Account Lifecycle Management](https://github.com/KojoK65/CyberArk-Privileged-Account-Lifecycle-Management/blob/main/README.md)**
+
 
 ## ⚠️ Vulnerability Management Projects
 
