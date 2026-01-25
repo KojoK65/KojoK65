@@ -19,6 +19,7 @@ I'm passionate about cybersecurity and enjoy solving complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 - **[IAM Threat Hunt: Unauthorized Local Admin Creation](https://github.com/KojoK65/IAM-Threat-Hunt/blob/main/README.md)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/KojoK65/threat-hunting-scenario-tor)**
+- **[Microsoft Sentinel SIEM: Threat Intelligence](https://github.com/KojoK65/Threat-Intelligence-with-Microsoft-Sentinel-SIEM)**
 
 <hr/>
 
